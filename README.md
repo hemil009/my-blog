@@ -1,1 +1,2 @@
 # my-blog
+This is a simple blog created by using Django. The homepage has the list for all the articles which can be accessed individually on clicking on the titles. Anyone with access can view the list and individual articles. There is an option to create new articles but login access is required for this. A login and signup feature is available for users. Html and CSS have been used for styling the ptoject.
